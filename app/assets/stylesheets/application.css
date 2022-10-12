@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+.submit {
+  background-color: rgb(43, 106, 165);
+  color: white;
+}
